@@ -1,4 +1,4 @@
-# PHP_IMAP_Installer_OSX
+# PHP_IMAP_Installer
 
 Installs the PHP IMAP Extension on OSX, as well as the dependancies needed to make it run-
 
@@ -8,7 +8,7 @@ Installs the PHP IMAP Extension on OSX, as well as the dependancies needed to ma
 
 ## Setup
 
-This script needs the XCode Command Line Tools and autoconf to run. 
+When run on OSX this script needs the XCode Command Line Tools and autoconf. 
 
 First, to install the command line tools-
 
