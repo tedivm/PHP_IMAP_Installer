@@ -41,3 +41,9 @@ Then clean up the build directory.
 ```
 rm -rf /tmp/phpimapmountainlion/
 ```
+
+## Attribution
+
+The original script was written by Ivan Vucica and was hosted on [his blog](http://blog.vucica.net/2012/10/installing-imap-extension-for-php-on-mountain-lion.html).
+
+It has since been updated by Robert Hafner.
